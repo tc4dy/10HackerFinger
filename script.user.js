@@ -38,7 +38,7 @@
 
         panel.innerHTML = `
             <div style="text-align:center; font-weight:bold; font-size:18px; border-bottom:1px solid #00ff00; margin-bottom:10px; padding-bottom:10px;">10 HACKER FINGER</div>
-            <div style="font-size:12px; color:#fff; text-align:center; margin-bottom:15px;">User: Tuğra Babapro</div>
+            <div style="font-size:12px; color:#fff; text-align:center; margin-bottom:15px;">User Mode</div>
             <div style="margin-bottom:5px;">SPEED: <span id="speed-num" style="color:#fff; font-weight:bold;">${speed}</span>ms</div>
             <input type="range" min="1" max="500" value="${speed}" id="speed-slider" style="width:100%; cursor:pointer; accent-color:#00ff00; margin-bottom:10px;">
             <div style="font-size:10px; margin-top:15px; text-align:right; opacity:0.5;">Dev: @tc4dy</div>
